@@ -1,5 +1,1 @@
-langchain
-unstructured 
-chromadb 
-openai 
-tiktoken
+langchain unstructured  chromadb  openai tiktoken
